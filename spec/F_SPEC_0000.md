@@ -12,6 +12,8 @@ Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluç
 
 - Iremos ou teremos necessidade de ter um sistema identificador decentralizado, como é o a proposta da spec W3C DID?
 
+- Iremos ou podemos ?pode ser uma boa? utilizar dados biométricos como pontos da face, digital, iris, escrita, etc para gerarmos uma criptografia inicial key-pair?
+
 ## Linguagem de Programação
 
 ### Backend Server Side Render
