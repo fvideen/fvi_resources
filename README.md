@@ -16,7 +16,7 @@ Some useful features of this repository:
 - [License](./LICENSE)
 - [Privacy](./SECURITY.md)
 - [Terms of Use](./TERM_OF_USE.md)
-- [Code of Conduct](./CONDUCT_CODE.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Introduction to repos](./doc/REPOS.md)
 
 ## Introduction

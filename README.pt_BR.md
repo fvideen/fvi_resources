@@ -16,7 +16,7 @@ Alguns recursos úteis deste repositório:
 - [Licença](./LICENSE)
 - [Privacidade](./SECURITY.md)
 - [Termos de Uso](./TERM_OF_USE.md)
-- [Código de Conduta](./CONDUCT_CODE.md)
+- [Código de Conduta](./CODE_OF_CONDUCT.md)
 - [Introdução aos repos](./doc/REPOS.md)
 
 ## Introdução
