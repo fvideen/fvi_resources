@@ -1,3 +1,6 @@
+> Ciêntista
+> Um cientista é uma pessoa que conduz uma pesquisa científica para o avanço do conhecimento em uma área de interesse.
+
 > Freunde Von Ideen - Documentação e Requisitos Colaborativos
 
 # Seja bem vindo

@@ -1,6 +1,6 @@
 # F_SPEC_0000
 
-![alt text](../doc/FVI_SPEC_0000.PNG "Title")
+![alt text](../doc/FVI_SPEC_0000.PNG "SPEC_0000")
 
 Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluções seguindo as premissas abaixo:
 

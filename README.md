@@ -1,3 +1,6 @@
+> Scientist
+> A scientist is a person who conducts scientific research to advance knowledge in an area of interest.
+
 > Freunde Von Ideen - Documentation and Collaborative Requirements
 
 # Welcome
