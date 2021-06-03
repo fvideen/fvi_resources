@@ -8,7 +8,9 @@ Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluç
 
 ## Questões
 
-- Iremos seguir um direcionamento Free Software Foundation, podemos ganhar patrocínio deles ou entrar em um grupo de doações com eles.
+- Iremos seguir um direcionamento Free Software Foundation, podemos ganhar patrocínio deles ou entrar em um grupo de doações com eles?
+
+- Iremos ou teremos necessidade de ter um sistema identificador decentralizado, como é o a proposta da spec W3C DID?
 
 ## Linguagem de Programação
 
