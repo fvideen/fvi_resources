@@ -93,6 +93,6 @@ First specification that determines the first steps that will be taken by the FV
 
 - [Português/Brasil](./README.pt_BR.md)
 
-## Referências
+## References
 
 - [Manifesto GNU](https://www.gnu.org/gnu/manifesto.html)
