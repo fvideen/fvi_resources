@@ -10,15 +10,14 @@ Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluç
 
 - Iremos seguir um direcionamento Free Software Foundation, podemos ganhar patrocínio deles ou entrar em um grupo de doações com eles.
 
-## Não objetivos
+## Linguagem de Programação
+
+### Backend Server Side Render
+
+- [Erlang](https://erlang.org/)
+- [Elixir](https://elixir-lang.org/)
 
 TODO
-
-## Resumo
-
-## Introdução
-
-## Conclusão
 
 ## Referências
 
