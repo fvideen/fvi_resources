@@ -1,5 +1,7 @@
 # F_SPEC_0000
 
+![alt text](../doc/FVI_SPEC_0000.PNG "Title")
+
 Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluções seguindo as premissas abaixo:
 
 - Não ferir de forma alguma a privacidade e a autonomia do usuário de nossos produtos, ferramentas ou qualquer insumo fornecido a qualquer pessoa.
