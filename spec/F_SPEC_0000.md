@@ -1,3 +1,12 @@
+> TLDR - Too long Don't Read
+> DRY - Don't Repeat Yourself
+> FYT - For Your Thoughts
+
+# FYT
+
+- [Manifesto GNU](https://www.gnu.org/gnu/manifesto.html)
+- [Unconvencional Computer](https://unconventionalcomputing.org/publications/)
+
 # F_SPEC_0000
 
 ![alt text](../doc/FVI_SPEC_0000.PNG "SPEC_0000")
@@ -22,9 +31,3 @@ Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluç
 
 - [Erlang](https://erlang.org/)
 - [Elixir](https://elixir-lang.org/)
-
-TODO
-
-## Referências
-
-- [Manifesto GNU](https://www.gnu.org/gnu/manifesto.html)
