@@ -7,6 +7,10 @@ Dicas e truques do Elixir a partir da experiência de desenvolvimento. Cada part
 
 Você pode ler partes específicas com os seguintes links ...
 
+## Dialyxir
+
+- Ver [aqui](https://github.com/jeremyjh/dialyxir).
+
 ## Creating Custom Sigils and Documenting
 
 Each x sigil calls its respective sigil_x definition
