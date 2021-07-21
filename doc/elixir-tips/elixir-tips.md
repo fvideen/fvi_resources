@@ -7,6 +7,30 @@ Dicas e truques do Elixir a partir da experiência de desenvolvimento. Cada part
 
 Você pode ler partes específicas com os seguintes links ...
 
+## Convenções de nomenclatura de aplicativos Mix
+
+Até este ponto, escrevemos código principalmente em iex ou colocamos todo o nosso código em um único arquivo.
+
+O Mix permite que você estruture seu código de uma maneira mais organizada e lidará com o carregamento correto de seu código quando o aplicativo for executado.
+
+Existem algumas convenções de nomenclatura que você seguiria:
+
+- Use um módulo de nível superior para evitar colisões de nomes
+- Cada módulo deve estar em um único arquivo, e cada arquivo deve ter um único módulo
+- Os nomes dos arquivos devem ser escritos em snake
+- Os nomes dos módulos devem ser "camel case"
+- A estrutura da pasta deve espelhar os nomes dos módulos
+
+### Exemplo p/ o modulo:
+
+```elixir
+defmodule Fvi.ServiceTest do
+  #...
+end
+```
+
+Teremos o arquivo `service_test.ex` e um diretório `ServiceTest`
+
 ## Dialyxir
 
 - Ver [aqui](https://github.com/jeremyjh/dialyxir).
