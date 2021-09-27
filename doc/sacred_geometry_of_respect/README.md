@@ -14,6 +14,8 @@ Esta é a segunda de uma série de posts de blogs convidados explorando as impli
 
 Em seu artigo de 1976 "Comunicação e Dominação Cultural", o sociólogo e crítico de mídia Herbert Schiller alertou para um futuro no qual a vida cultural de indivíduos em todo o mundo seria moldada e ditada por um pequeno número de interesses da mídia privada. A dominação das corporações de tecnologia dos EUA no mundo online hoje é o realização sombria dessa profecia.
 
+## Resumo
+
 O acesso à vasta loja de conhecimento humano coletivo está cada vez mais baseado na entrega de nossos direitos de privacidade, livre associação e autonomia digital aos guardiões como Google, Amazon e Facebook, cujos modelos de negócios dependem da normalização do capitalismo de vigilância. E a colonização digital — a imposição violenta e repressiva dos valores e taxonomias ocidentais — é um componente fundamental de seu sucesso.
 
 > "A internet está implicada em estruturas de poder contemporâneas, sua promessa manchada por corporações digitais inexplicáveis, extrativismo de dados, a comercialização da democracia e a conivência do capitalismo de rede com os Estados de vigilância."
