@@ -1,10 +1,12 @@
 # F_SPEC_0001
 
-Teremos como objetivo inicial o desenvolvimento de um banco de dados decentralizado ou utilizaremos um infraestrutura de banco de dados existente e depois migrar para uma infraestrutura decentralizada.
+Amigos aqui especificaremos os processos que irão regir a empresa sem fins lucrativos Freunde Von Ideen.
 
 ## Objetivo
 
-TODO
+- Doações
+- Política de colaboração através de membros associados
+- Parceiria com a empresa sem fins lucrativos
 
 ## Não objetivo
 

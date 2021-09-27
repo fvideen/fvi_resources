@@ -1,15 +1,12 @@
+# F_SPEC_0000
+
 > TLDR - Too long Don't Read
 > DRY - Don't Repeat Yourself
 > FYT - For Your Thoughts
 
-# FYT
-
 - [Manifesto GNU](https://www.gnu.org/gnu/manifesto.html)
-- [Unconvencional Computer](https://unconventionalcomputing.org/publications/)
 
-# F_SPEC_0000
-
-![alt text](../doc/FVI_SPEC_0000.PNG "SPEC_0000")
+![alt text](./FVI_SPEC_0000.PNG "SPEC_0000")
 
 Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluções seguindo as premissas abaixo:
 
@@ -21,9 +18,17 @@ Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluç
 
 - Iremos seguir um direcionamento Free Software Foundation, podemos ganhar patrocínio deles ou entrar em um grupo de doações com eles?
 
+  - [ ] Sim
+  - [ ] Não
+
 - Iremos ou teremos necessidade de ter um sistema identificador decentralizado, como é o a proposta da spec W3C DID?
 
+  - [ ] Sim
+  - [ ] Não
+
 - Iremos ou podemos ?pode ser uma boa? utilizar dados biométricos como pontos da face, digital, iris, escrita, etc para gerarmos uma criptografia inicial key-pair?
+  - [ ] Sim
+  - [ ] Não
 
 ## Linguagem de Programação
 

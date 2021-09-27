@@ -1,11 +1,27 @@
+# Seja bem vindo
+
+## Freunde Von Ideen - Documentação e Requisitos Colaborativos
+
 > Ciêntista
 > Um cientista é uma pessoa que conduz uma pesquisa científica para o avanço do conhecimento em uma área de interesse.
 
-> Freunde Von Ideen - Documentação e Requisitos Colaborativos
-
-# Seja bem vindo
-
 Este repositório é o principal portal para documentações e discussões de produtos, desenvolvimento e as regras desta organização.
+
+## Princípios
+
+- **DRY**: Dont repeat yourself
+- **KISS**: Keep it simple, stupid
+- **YAGNI**: You aren't gonna need it
+- **YAA**: Yet another acronym
+- [SOLID](https://siderite.dev/blog/solid-principles-plus-dry-yagni-kiss.html/)
+  - **Simple Responsability Principle**: Somente uma responsabilidade por módulo, classe, função ou unidade lógica.
+  - **Open/Close Principle**: Aberto em vez de fechado, manter o codigo explicito, dar prioridade a composição em vez da herança.
+  - **Liskov Substitution Principle**: Se Y eh um subtipo de X, entao podemos mudar X para Y ou vice versa sem alterar qualquer codigo.
+  - **Interface Segregation Principle**: Sempre utilizar o supertipo nos codigos, nunca as implementacoes separando em interfaces.
+  - **Dependency Inversion Principle**: Ou Inversion Of Control, é usar interfaces ao inves de implementações onde for possível.
+- **Abstraction**: Abstração, manter os codigos abstratos.
+- **Extensibility**: Extensibilidade, manter os codigos com facil integracao.
+- **Cohesion**: Coesão, manter os codigos com coesao ao negocio que resolvem.
 
 Questões gerais também devem ser enviadas aqui, por exemplo, propostas de novos recursos. Você também pode se juntar a nós no Discord ou Matrix.org mantidos pela organização:
 
