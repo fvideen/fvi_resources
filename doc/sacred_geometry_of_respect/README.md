@@ -8,7 +8,7 @@ Esta é uma tradução do artigo postado [aqui](https://blog.archive.org/2021/09
 
 Esta é a segunda de uma série de posts de blogs convidados explorando as implicações do mundo real dos [Princípios da Web Descentralizados](https://getdweb.net/principles/).
 
-![caroline_ada](./CarolineAdaEhmke.jpg)
+![caroline_ada](./CoralineAdaEhmke.jpg)
 
 [Coraline Ada Ehmke](https://twitter.com/CoralineAda) é a criadora do [Pacto Contributivo](https://www.contributor-covenant.org/) e autora da [Licença Hipocrática](https://firstdonoharm.dev/), uma licença de código aberto destinada a promover e proteger os direitos humanos. Em 2021, a Coraline fundou a [Organização para a Fonte Ética](https://ethicalsource.dev/) e atualmente atua como diretora executiva.
 
