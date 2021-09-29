@@ -1,5 +1,9 @@
 # Conselhos da Dakini Vajravarahi para Sera Khandro
 
+> [Original](https://www.lotsawahouse.org/.../excellent-path-of-devotion)
+> Post by Naldjor and shared by Isobel
+> Baxter 💎🌹
+
 Eh ma ho!
 
 Ouça, puro afortunado,
