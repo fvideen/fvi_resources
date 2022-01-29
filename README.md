@@ -1,3 +1,6 @@
+> Scientist
+> A scientist is a person who conducts scientific research to advance knowledge in an area of interest.
+
 > Freunde Von Ideen - Documentation and Collaborative Requirements
 
 # Welcome
@@ -90,6 +93,6 @@ First specification that determines the first steps that will be taken by the FV
 
 - [Português/Brasil](./README.pt_BR.md)
 
-## Referências
+## References
 
 - [Manifesto GNU](https://www.gnu.org/gnu/manifesto.html)

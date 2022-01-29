@@ -1,5 +1,13 @@
 # F_SPEC_0000
 
+> TLDR - Too long Don't Read
+> DRY - Don't Repeat Yourself
+> FYT - For Your Thoughts
+
+- [Manifesto GNU](https://www.gnu.org/gnu/manifesto.html)
+
+![alt text](./FVI_SPEC_0000.PNG "SPEC_0000")
+
 Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluções seguindo as premissas abaixo:
 
 - Não ferir de forma alguma a privacidade e a autonomia do usuário de nossos produtos, ferramentas ou qualquer insumo fornecido a qualquer pessoa.
@@ -8,7 +16,19 @@ Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluç
 
 ## Questões
 
-- Iremos seguir um direcionamento Free Software Foundation, podemos ganhar patrocínio deles ou entrar em um grupo de doações com eles.
+- Iremos seguir um direcionamento Free Software Foundation, podemos ganhar patrocínio deles ou entrar em um grupo de doações com eles?
+
+  - [ ] Sim
+  - [ ] Não
+
+- Iremos ou teremos necessidade de ter um sistema identificador decentralizado, como é o a proposta da spec W3C DID?
+
+  - [ ] Sim
+  - [ ] Não
+
+- Iremos ou podemos ?pode ser uma boa? utilizar dados biométricos como pontos da face, digital, iris, escrita, etc para gerarmos uma criptografia inicial key-pair?
+  - [ ] Sim
+  - [ ] Não
 
 ## Linguagem de Programação
 
@@ -16,9 +36,3 @@ Aqui teremos a conversa sobre quais tecnologias iremos utilizar em nossas soluç
 
 - [Erlang](https://erlang.org/)
 - [Elixir](https://elixir-lang.org/)
-
-TODO
-
-## Referências
-
-- [Manifesto GNU](https://www.gnu.org/gnu/manifesto.html)
